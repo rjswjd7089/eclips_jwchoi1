@@ -2,14 +2,11 @@
 public class PushPrint {
 
 	public static void main(String[] args) {
-<<<<<<< HEAD
+		
 		System.out.println("sophomore");
 		System.out.println("Wankwang Univ.");
 		System.out.println("Jeonbuk Iksan");
-=======
-		System.out.println("sophomore");
-		System.out.println("Jeonbuk Iksan");
->>>>>>> refs/remotes/pass/master
+
 	}
 
 }
